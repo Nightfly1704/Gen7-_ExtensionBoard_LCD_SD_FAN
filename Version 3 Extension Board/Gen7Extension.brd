@@ -83,7 +83,7 @@
 <wire x1="60.63" y1="-1.27" x2="60.63" y2="45.71" width="0" layer="20"/>
 <wire x1="60.63" y1="45.71" x2="0" y2="45.71" width="0" layer="20"/>
 <wire x1="0" y1="45.71" x2="0" y2="-1.27" width="0" layer="20"/>
-<text x="41.5925" y="17.4625" size="0.8128" layer="16" ratio="9" distance="5" rot="MR0">Gen7 Extention Board
+<text x="41.5925" y="17.4625" size="0.8128" layer="16" ratio="9" distance="5" rot="MR0">Gen7 Extension Board
 by Night-Fly</text>
 </plain>
 <libraries>
