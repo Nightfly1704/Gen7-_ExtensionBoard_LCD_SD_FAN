@@ -1,4 +1,4 @@
-Gen-_ExtentionBoard_LCD_SD_FAN
+Gen-_ExtensionBoard_LCD_SD_FAN
 ==============================
 
-Extention Board for Gen7 Electronics Version 1.4.1/1.5
+Extension Board for Gen7 Electronics Version 1.4.1/1.5
