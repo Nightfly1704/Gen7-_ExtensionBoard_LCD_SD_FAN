@@ -1,0 +1,25 @@
+SDSS		24
+FAN PIN 	13
+SCK_PIN		7
+MOSI_PIN	5
+MISO_PIN	6
+SDCardDetect	10
+SCL		16
+SDA		17
+
+
+Rotary Encoder
+
+A		21
+B		20
+OK		11
+
+LCD PCF8574 ADDRESS 0x40 in Repetier (0x20 Official)
+
+RS_PIN	6
+RW_PIN	5
+Enable	4
+D4	3
+D5	2
+D6	1
+D7	0
